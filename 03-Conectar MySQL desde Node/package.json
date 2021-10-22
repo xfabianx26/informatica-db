@@ -1,0 +1,14 @@
+{
+  "name": "03-conectar-mysql-desde-node",
+  "version": "1.0.0",
+  "description": "conexion de db ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fabian",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
